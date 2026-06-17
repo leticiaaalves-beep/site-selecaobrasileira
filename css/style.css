@@ -81,3 +81,59 @@ header{
     
 }
 
+#fase{
+    background-color: #009440;
+     color: #ffffff;
+        padding: 30px;
+        font-size: 40px;
+        text-align: center;
+
+}
+
+.container-jogos{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    background-color: #009440;
+    
+}
+
+.jogo{
+    background-color: #002277;
+    color: white;
+    width: 250px;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.jogo img{
+    width: 80px;
+    height: 55px;
+    object-fit: cover;
+    border: 2px solid white;
+}
+
+.jogo span{
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0 10px;
+}
+
+.jogo p{
+    margin-top: 15px;
+}
+
+.rodape{
+    background-color:#009440;
+     font-size: 15px;
+    color:#f8c400;
+     margin-top: 0;
+       margin: 0;
+    padding: 20px 0;
+}
+
+
+
+
