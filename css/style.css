@@ -134,6 +134,108 @@ header{
     padding: 20px 0;
 }
 
+/* hexa */
+
+#cabeçalho{
+     background-image: url("https://i.pinimg.com/1200x/55/ee/90/55ee9066274ccdfdd1aa7577d5be437c.jpg");
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    height: 700px; 
+    justify-content: center; 
+    align-items: center; 
+}
+
+#titulobr{
+     color:#002277;
+     -webkit-text-stroke: 0.5px #f8c400;
+    font-family: 'Bungee', cursive;
+    font-size: 100px;
+    padding: 30px;
+    display: center;
+    align-items: center;
+    gap: 20px;
+
+}
+
+#subtitulobr{
+    background-color: #002277;
+    color: #f8c400;
+     font-family: 'Bungee', cursive;
+     font-size: 40px;
+    padding: 30px;
+    display: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.caixa {
+    width: 250px;
+    padding: 20px;
+    background-color:#f8c400;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    margin: 20px auto;
+    text-align: center;
+    
+}
+.imagem-caixa {
+    width: 150px;
+    height: 100px; 
+}
+
+.copas{
+    background-color: #002277;
+}
+
+.escrita{
+    font-family: 'Bungee', cursive;
+    font-size: 20px;
+    color: black;
+
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 5px; /* espaço entre as caixas */
+    flex-wrap: wrap; /* quebra linha se não couber */
+
+}
+
+#Esperança{
+    background-color: #002277;
+     color:#f8c400;
+     font-family: 'Bungee', cursive;
+    font-size: 40px;
+      padding: 30px;
+    display: center;
+    align-items: center;
+    gap: 20px;
+     margin-top: 50px;
+   
+}
+
+#hexa-textinho{
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 10px;
+    display: center;
+    align-items: center;
+    gap: 50px;
+    margin-bottom: 80px;
+}
+
+.imagem-final{
+    width: 100%;
+    height: 500px;
+    background-image: url(https://i.pinimg.com/1200x/4f/d7/46/4fd7460df41bbeea58b39ed20c9934b8.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 80px; /* aumenta o espaço azul */
 
 
-
+    
+}
